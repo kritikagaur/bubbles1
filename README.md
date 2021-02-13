@@ -1,1 +1,2 @@
-# bubbles1
+# Bubbles()
+A minimal shooting game written in JavaScript
